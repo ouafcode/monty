@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <string.h>
-#include "main.h"
+#include "monty.h"
 /**
  * fnt_mul - function to multiply the second top element
  * @stack: input stack

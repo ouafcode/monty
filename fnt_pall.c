@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * fnt_pall - to return stack
  * @stack: input stack

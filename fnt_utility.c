@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 #include <ctype.h>
 /**
  * id_integer - to identify integer

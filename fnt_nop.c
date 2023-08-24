@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 /**
  * fnt_nop - nothing do
  * @stack: input stack
